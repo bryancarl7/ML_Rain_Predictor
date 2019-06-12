@@ -10,7 +10,7 @@ file. From there I used each file to run multiple tests of different methods.
 Almost entirely using the sklearn package. 
 
 Luckily I managed to get the loader.py file to process all the contents in the "data" directory,
-so each file is just a self-contained main with a few user-defined functions for flexibility.
+so each file python file aside from loader.py is just a self-contained method with a few user-defined functions for flexibility.
 A huge thing about this implementation is taht you can continuosly put in files of the same format.
 I.e. if you place more month files title "(MM)-(YYYY).txt" with the same attributes
 as the others, then each method file will continue to process that new file in addition to the older
