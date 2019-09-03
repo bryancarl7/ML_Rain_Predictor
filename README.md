@@ -1,7 +1,7 @@
 # Machine Learning: Precipitation Binary Classifier #
 ### Data: ###
 This one was a doozey, I'm not gunna lie. I had to transform my own data,
-that I scraped myself from:
+that I manually copy and pasted myself from:
 https://www.wunderground.com/history/monthly/us/or/eugene/KEUG/date/2016-6
 
 This was how it was all possible, I loaded them all up into txt files,
